@@ -71,10 +71,9 @@
 
 <br />
 
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Faizal-dev13&theme=flat&column=7&margin-w=15&margin-h=15&rank=SSS,SS,S,A,B" alt="Faizal-dev13's trophies" width="100%" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Faizal-dev13&show_icons=true&theme=tokyonight&rank_icon=github" width="48%" />
 </p>
 
 
