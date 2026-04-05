@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0070f3&height=200&section=header&text=Full%20Stack%20Developer&fontSize=70&fontColor=ffffff" />
 </p>
 
-## Hi there, I'm [Nama Kamu]! 👋
+## Hi there, I'm Faizal! 👋
 
 I'm a **Software Engineer** focused on building high-performance web applications and startup solutions. I love clean code, minimalist UI, and efficient systems.
 
@@ -26,11 +26,7 @@ I'm a **Software Engineer** focused on building high-performance web application
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME-KAMU]&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME-KAMU]&layout=compact&theme=default&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[FaizalDev]&layout=compact&theme=default&hide_border=true" width="45%" />
 </p>
 
 ---
-
-### 🚀 Ongoing Projects
-- 🏠 **Smart Property** - Multi-tenant SaaS for property agents.
-- 🏫 **Smart Pickup** - School children safety management app.
