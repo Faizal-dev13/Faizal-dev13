@@ -1,46 +1,48 @@
-<!-- ===================================================== -->
+<!-- ====================================================== -->
 
-<!--                     HERO SECTION                      -->
+<!--                       HERO                             -->
 
-<!-- ===================================================== -->
+<!-- ====================================================== -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=soft&color=0:020617,50:0f172a,100:0284c7&height=210&section=header&text=FAIZAL%20DEV&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Founder%20of%20Fistechno%20Digital%20Solution&descAlignY=62&descSize=18&animation=fadeIn"
+    width="100%"
+    alt="Faizal Dev"
+  />
+</p>
 
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,100:0ea5e9&height=260&section=header&text=FAIZAL%20DEV&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Engineer%20%E2%80%A2%20Solution%20Architect%20%E2%80%A2%20UI%2FUX%20Designer&descAlignY=58&descSize=17&animation=fadeIn"
-width="100%"
-alt="Faizal Dev Header"
+src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=23&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=820&height=55&lines=Founder+%26+Digital+Solution+Architect;Full-Stack+Engineer;Building+Systems+That+Solve+Real+Problems;From+Business+Process+to+Digital+Product"
+alt="Professional Roles"
 />
+
+<br/>
+
+### I build digital products that simplify operations, improve experiences, and support business growth.
+
+Founder of **Fistechno Digital Solution** and a Full-Stack Engineer specializing in
+**business digitalization, scalable web systems, backend architecture, and UI/UX development.**
+
+<br/>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=850&height=55&lines=Building+Scalable+Digital+Products;Transforming+Business+Logic+into+Solutions;Designing+Clean+and+Intuitive+Experiences;Developing+Reliable+Backend+Systems;From+Idea+to+Production"
-alt="Typing Animation"
+src="https://komarev.com/ghpvc/?username=Faizal-dev13&label=PROFILE%20VIEWS&color=0284c7&style=flat-square"
+alt="Profile Views"
 />
 
-<br/>
-
-### Building digital systems that simplify operations and create measurable impact.
-
-I combine **business analysis, system architecture, backend engineering, and UI/UX design**
-to transform complex workflows into reliable and intuitive digital products.
-
-<br/>
-
-<a href="https://github.com/Faizal-dev13">
-  <img
-    src="https://komarev.com/ghpvc/?username=Faizal-dev13&label=PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge"
-    alt="Profile Views"
-  />
-</a>
 <a href="https://linkedin.com/in/Faizal-dev13">
   <img
-    src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
     alt="LinkedIn"
   />
 </a>
+
 <a href="mailto:your-email@example.com">
   <img
-    src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"
     alt="Email"
   />
 </a>
@@ -49,51 +51,53 @@ to transform complex workflows into reliable and intuitive digital products.
 
 <br/>
 
-<!-- ===================================================== -->
+---
 
-<!--                       ABOUT ME                        -->
+<!-- ====================================================== -->
 
-<!-- ===================================================== -->
+<!--                    PROFESSIONAL INTRO                  -->
 
-## `01.` About Me
+<!-- ====================================================== -->
 
-<table border="0">
+## About Me
+
+<table>
   <tr>
-    <td width="58%" valign="top">
+    <td width="62%" valign="top">
 
-### Hi, I'm Faizal 👋
+I am **Faizal**, Founder of **Fistechno Digital Solution** and a Full-Stack Engineer focused on turning complex operational processes into effective digital systems.
 
-A **Full-Stack Engineer and Solution Architect** focused on developing digital products that are scalable, maintainable, and aligned with real business needs.
+My work combines technical engineering with business understanding. I analyze real operational problems, map user journeys, design scalable architectures, and develop products that are reliable, intuitive, and ready for growth.
 
-I do more than write code. I analyze operational problems, design effective user flows, build system architecture, develop application logic, and prepare products for production environments.
+I believe good technology should not make a process feel more complicated. It should make work easier, decisions clearer, and services more efficient.
 
-```typescript
+<br/>
+
+```javascript
 const faizal = {
-  role: "Full-Stack Engineer",
-  specialization: [
-    "System Architecture",
+  role: "Founder & Full-Stack Engineer",
+  company: "Fistechno Digital Solution",
+
+  expertise: [
+    "Digital Product Development",
     "Business Process Digitalization",
-    "Backend & REST API Development",
-    "Responsive UI/UX Design",
-    "Deployment & Server Management"
+    "System & Backend Architecture",
+    "Responsive UI/UX Engineering",
+    "Deployment & Infrastructure"
   ],
-  approach: [
-    "Understand the real problem",
-    "Design the simplest effective flow",
-    "Build scalable architecture",
-    "Deliver measurable impact"
-  ],
-  currentFocus: "Building high-impact digital products"
+
+  mission: "Transform ideas and business processes into impactful digital solutions"
 };
 ```
 
   </td>
-  <td width="42%" align="center" valign="middle">
+
+  <td width="38%" align="center" valign="middle">
 
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faizal-dev13&theme=tokyonight"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faizal-dev13&theme=github_dark"
 width="100%"
-alt="Profile Summary"
+alt="GitHub Profile Summary"
 />
 
   </td>
@@ -102,252 +106,258 @@ alt="Profile Summary"
 
 <br/>
 
-<!-- ===================================================== -->
+---
 
-<!--                    SERVICE CARDS                      -->
+<!-- ====================================================== -->
 
-<!-- ===================================================== -->
+<!--                     FISTECHNO                          -->
 
-## `02.` What I Build
+<!-- ====================================================== -->
+
+## Fistechno Digital Solution
 
 <table>
   <tr>
-    <td width="33%" align="center" valign="top">
-      <br/>
-      <img src="https://img.icons8.com/fluency/96/server.png" width="72" alt="Backend Systems"/>
-      <h3>Backend Systems</h3>
-      <p>
-        Secure APIs, authentication, payment workflows, role management, automation, and complex business logic.
-      </p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <br/>
-      <img src="https://img.icons8.com/fluency/96/web-design.png" width="72" alt="Web Applications"/>
-      <h3>Web Applications</h3>
-      <p>
-        Responsive public websites, participant portals, admin dashboards, and operational systems.
-      </p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <br/>
-      <img src="https://img.icons8.com/fluency/96/workflow.png" width="72" alt="Digitalization"/>
-      <h3>Business Digitalization</h3>
-      <p>
-        Transforming manual workflows into structured, trackable, and efficient digital processes.
-      </p>
-    </td>
+    <td width="34%" align="center" valign="middle">
+
+<img
+src="https://img.icons8.com/fluency/144/company.png"
+width="110"
+alt="Fistechno Digital Solution"
+/>
+
+### Digital solutions built around real business needs.
+
+  </td>
+
+  <td width="66%" valign="top">
+
+**Fistechno Digital Solution** helps businesses and organizations transform ideas, workflows, and services into modern digital products.
+
+We focus on developing solutions that are not only visually attractive, but also functional, scalable, maintainable, and aligned with operational objectives.
+
+#### What We Build
+
+* Custom web applications
+* Business management systems
+* Administrative and operational dashboards
+* Learning and certification platforms
+* News portals and content platforms
+* Company profiles and public websites
+* Backend systems and REST API integrations
+* UI/UX modernization and system optimization
+
+  </td>
   </tr>
+
+</table>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/STRATEGY-Business%20Process%20Analysis-0F172A?style=for-the-badge&labelColor=0284C7" />
+<img src="https://img.shields.io/badge/DESIGN-User%20Centered%20Experience-0F172A?style=for-the-badge&labelColor=0284C7" />
+<img src="https://img.shields.io/badge/BUILD-Scalable%20Digital%20Product-0F172A?style=for-the-badge&labelColor=0284C7" />
+
+</div>
+
+<br/>
+
+---
+
+<!-- ====================================================== -->
+
+<!--                      EXPERTISE                         -->
+
+<!-- ====================================================== -->
+
+## Core Expertise
+
+<table>
   <tr>
-    <td width="33%" align="center" valign="top">
-      <br/>
-      <img src="https://img.icons8.com/fluency/96/design.png" width="72" alt="UI UX Design"/>
-      <h3>UI/UX Design</h3>
-      <p>
-        Clean interfaces, intuitive user flows, responsive layouts, and efficient interaction patterns.
-      </p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <br/>
-      <img src="https://img.icons8.com/fluency/96/cloud-development.png" width="72" alt="Deployment"/>
-      <h3>Deployment</h3>
-      <p>
-        Linux servers, VPS environments, application deployment, optimization, and production configuration.
-      </p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <br/>
-      <img src="https://img.icons8.com/fluency/96/combo-chart.png" width="72" alt="Optimization"/>
-      <h3>System Optimization</h3>
-      <p>
-        Improving performance, usability, application flow, maintainability, and operational efficiency.
-      </p>
-    </td>
+    <td width="50%" valign="top">
+
+### 01 — Digital Product Strategy
+
+Translating business challenges into clear product requirements, structured user flows, and practical development roadmaps.
+
+  </td>
+
+  <td width="50%" valign="top">
+
+### 02 — System Architecture
+
+Designing modular, maintainable, and scalable application structures for complex operational requirements.
+
+  </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+
+### 03 — Full-Stack Development
+
+Developing reliable backend systems, REST APIs, responsive interfaces, dashboards, portals, and business applications.
+
+  </td>
+
+  <td width="50%" valign="top">
+
+### 04 — UI/UX Engineering
+
+Creating clean and intuitive digital experiences with clear hierarchy, efficient interactions, and responsive layouts.
+
+  </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+
+### 05 — Business Digitalization
+
+Converting manual workflows into structured systems that improve efficiency, traceability, and operational control.
+
+  </td>
+
+  <td width="50%" valign="top">
+
+### 06 — Deployment & Optimization
+
+Preparing applications for production through deployment, server management, debugging, performance improvement, and monitoring.
+
+  </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- ===================================================== -->
+---
 
-<!--                     TECH STACK                        -->
+<!-- ====================================================== -->
 
-<!-- ===================================================== -->
+<!--                    TECHNOLOGY STACK                    -->
 
-## `03.` Technology Stack
+<!-- ====================================================== -->
+
+## Technology Stack
 
 <div align="center">
 
-### Backend & API
+### Backend & Application Architecture
 
 <img
-src="https://skillicons.dev/icons?i=laravel,nestjs,nodejs,express,php,postman&theme=dark"
-alt="Backend Technologies"
+src="https://skillicons.dev/icons?i=laravel,php,nestjs,nodejs,express,postman&theme=dark"
+alt="Backend Stack"
 />
 
 <br/><br/>
 
-### Frontend & Interface
+### Frontend & Product Interface
 
 <img
-src="https://skillicons.dev/icons?i=vue,react,astro,tailwind,js,ts,html,css,figma&theme=dark"
-alt="Frontend Technologies"
+src="https://skillicons.dev/icons?i=vue,react,astro,tailwind,typescript,javascript,html,css,figma&theme=dark"
+alt="Frontend Stack"
 />
 
 <br/><br/>
 
-### Database, Infrastructure & Tools
+### Database, Infrastructure & Workflow
 
 <img
 src="https://skillicons.dev/icons?i=mysql,docker,linux,nginx,git,github,vscode,bash&theme=dark"
-alt="Infrastructure Technologies"
+alt="Infrastructure Stack"
 />
 
 </div>
 
 <br/>
 
-<!-- ===================================================== -->
+---
 
-<!--                  TECHNICAL MATRIX                     -->
+<!-- ====================================================== -->
 
-<!-- ===================================================== -->
+<!--                    DEVELOPMENT METHOD                  -->
 
-## `04.` Technical Capabilities
+<!-- ====================================================== -->
 
-<table>
-  <thead>
-    <tr>
-      <th align="left">Area</th>
-      <th align="left">Capabilities</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Architecture</b></td>
-      <td>Modular systems, role-based applications, scalable business workflows, database structure</td>
-    </tr>
-    <tr>
-      <td><b>Backend</b></td>
-      <td>REST APIs, authentication, authorization, payment integration, automation, queues</td>
-    </tr>
-    <tr>
-      <td><b>Frontend</b></td>
-      <td>Vue.js, React, responsive interfaces, dashboard systems, reusable components</td>
-    </tr>
-    <tr>
-      <td><b>UI/UX</b></td>
-      <td>User flow mapping, mobile-first design, information hierarchy, interaction improvement</td>
-    </tr>
-    <tr>
-      <td><b>Operations</b></td>
-      <td>VPS deployment, Linux server management, Nginx, Docker, Git workflow</td>
-    </tr>
-    <tr>
-      <td><b>Quality</b></td>
-      <td>Functional testing, flow validation, debugging, optimization, maintainable code</td>
-    </tr>
-  </tbody>
-</table>
-
-<br/>
-
-<!-- ===================================================== -->
-
-<!--                    WORK PROCESS                       -->
-
-<!-- ===================================================== -->
-
-## `05.` Development Workflow
+## How I Build
 
 ```mermaid
 flowchart LR
-    A["🔎 Discover"] --> B["🧠 Analyze"]
-    B --> C["🏗️ Architect"]
-    C --> D["🎨 Design"]
-    D --> E["💻 Develop"]
-    E --> F["🧪 Test"]
-    F --> G["🚀 Deploy"]
-    G --> H["📈 Improve"]
+    A["Understand"] --> B["Map"]
+    B --> C["Architect"]
+    C --> D["Design"]
+    D --> E["Develop"]
+    E --> F["Validate"]
+    F --> G["Deploy"]
+    G --> H["Improve"]
 ```
-
-<div align="center">
-
-|           Discover           |           Architect          |           Build           |       Deliver       |
-| :--------------------------: | :--------------------------: | :-----------------------: | :-----------------: |
-| Understand business problems |  Design scalable structures  | Develop reliable products | Deploy and optimize |
-|    Map users and workflows   | Define modules and data flow |  Test every critical flow | Measure real impact |
-
-</div>
-
-<br/>
-
-<!-- ===================================================== -->
-
-<!--                  ENGINEERING VALUES                   -->
-
-<!-- ===================================================== -->
-
-## `06.` Engineering Principles
 
 <table>
   <tr>
-    <td width="25%" align="center">
-      <img src="https://img.icons8.com/fluency/64/resize.png" width="50" alt="Scalable"/>
-      <h3>Scalable</h3>
-      <p>Ready to grow with users and business requirements.</p>
+    <td align="center" width="25%">
+      <h3>Understand</h3>
+      <p>Identify the real operational problem.</p>
     </td>
-    <td width="25%" align="center">
-      <img src="https://img.icons8.com/fluency/64/source-code.png" width="50" alt="Maintainable"/>
-      <h3>Maintainable</h3>
-      <p>Clear structures, reusable components, and readable logic.</p>
-    </td>
-    <td width="25%" align="center">
-      <img src="https://img.icons8.com/fluency/64/touchscreen-smartphone.png" width="50" alt="Intuitive"/>
-      <h3>Intuitive</h3>
-      <p>User flows that are simple, clear, and efficient.</p>
-    </td>
-    <td width="25%" align="center">
-      <img src="https://img.icons8.com/fluency/64/security-checked.png" width="50" alt="Reliable"/>
-      <h3>Reliable</h3>
-      <p>Stable, secure, tested, and production-ready.</p>
-    </td>
+
+```
+<td align="center" width="25%">
+  <h3>Architect</h3>
+  <p>Design the system, data, and user flow.</p>
+</td>
+
+<td align="center" width="25%">
+  <h3>Build</h3>
+  <p>Develop and validate critical features.</p>
+</td>
+
+<td align="center" width="25%">
+  <h3>Improve</h3>
+  <p>Optimize based on real usage and impact.</p>
+</td>
+```
+
   </tr>
 </table>
 
 <br/>
 
-<!-- ===================================================== -->
+---
 
-<!--                      TROPHIES                         -->
+<!-- ====================================================== -->
 
-<!-- ===================================================== -->
+<!--                     VALUES                             -->
 
-## `07.` GitHub Achievements
+<!-- ====================================================== -->
+
+## Product Principles
 
 <div align="center">
 
-<img
-src="https://github-profile-trophy.vercel.app/?username=Faizal-dev13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6"
-width="95%"
-alt="GitHub Trophies"
-/>
+|                 Clean                |                Intuitive               |            Scalable            |               Reliable               |
+| :----------------------------------: | :------------------------------------: | :----------------------------: | :----------------------------------: |
+| Clear structure and visual hierarchy | Efficient and understandable user flow | Ready to support future growth | Stable, tested, and production-ready |
+|      Maintainable implementation     |          Reduced user friction         |   Modular system architecture  |    Secure and predictable behavior   |
 
 </div>
 
 <br/>
 
-<!-- ===================================================== -->
+---
 
-<!--                    GITHUB STATS                       -->
+<!-- ====================================================== -->
 
-<!-- ===================================================== -->
+<!--                   GITHUB ANALYTICS                     -->
 
-## `08.` GitHub Analytics
+<!-- ====================================================== -->
+
+## GitHub Overview
 
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=Faizal-dev13&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=0EA5E9&text_color=C9D1D9&ring_color=38BDF8&rank_icon=github"
+src="https://github-readme-stats.vercel.app/api?username=Faizal-dev13&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=0284C7&text_color=C9D1D9&rank_icon=github"
 width="49%"
 alt="GitHub Statistics"
 />
@@ -361,134 +371,106 @@ alt="Most Used Languages"
 <br/><br/>
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=Faizal-dev13&hide_border=true&background=0D1117&stroke=1E293B&ring=38BDF8&fire=0EA5E9&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B"
+src="https://github-readme-streak-stats.herokuapp.com/?user=Faizal-dev13&hide_border=true&background=0D1117&stroke=1E293B&ring=38BDF8&fire=0284C7&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B"
 width="90%"
-alt="GitHub Contribution Streak"
+alt="GitHub Streak"
 />
 
-</div>
-
-<br/>
-
-<!-- ===================================================== -->
-
-<!--                   ACTIVITY GRAPH                      -->
-
-<!-- ===================================================== -->
-
-## `09.` Contribution Activity
-
-<div align="center">
+<br/><br/>
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Faizal-dev13&bg_color=0d1117&color=94a3b8&line=0ea5e9&point=38bdf8&area=true&area_color=0ea5e9&hide_border=true&custom_title=Faizal's%20Contribution%20Activity"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Faizal-dev13&bg_color=0d1117&color=94a3b8&line=0284c7&point=38bdf8&area=true&area_color=0284c7&hide_border=true&custom_title=Development%20Activity"
 width="96%"
-alt="GitHub Contribution Graph"
+alt="Development Activity"
 />
 
 </div>
 
 <br/>
 
-<!-- ===================================================== -->
+---
 
-<!--                   SUMMARY CARDS                       -->
+<!-- ====================================================== -->
 
-<!-- ===================================================== -->
+<!--                   PROFESSIONAL FOCUS                   -->
 
-## `10.` Development Overview
+<!-- ====================================================== -->
 
-<div align="center">
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Faizal-dev13&theme=tokyonight"
-width="32%"
-alt="Repositories Per Language"
-/>
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Faizal-dev13&theme=tokyonight"
-width="32%"
-alt="Most Commit Language"
-/>
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Faizal-dev13&theme=tokyonight&utcOffset=7"
-width="32%"
-alt="Productive Time"
-/>
-
-</div>
-
-<br/>
-
-<!-- ===================================================== -->
-
-<!--                     PROJECT TYPES                     -->
-
-<!-- ===================================================== -->
-
-## `11.` Solutions I Work On
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Learning%20Management%20Systems-0F172A?style=for-the-badge&logo=moodle&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Admin%20Dashboard-0F172A?style=for-the-badge&logo=googleanalytics&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Business%20Automation-0F172A?style=for-the-badge&logo=zapier&logoColor=38BDF8" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Payment%20Systems-0F172A?style=for-the-badge&logo=stripe&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Certification%20Platforms-0F172A?style=for-the-badge&logo=credly&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Content%20Portals-0F172A?style=for-the-badge&logo=readme&logoColor=38BDF8" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Company%20Profiles-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/REST%20API%20Integration-0F172A?style=for-the-badge&logo=postman&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Operational%20Systems-0F172A?style=for-the-badge&logo=buffer&logoColor=38BDF8" />
-
-</div>
-
-<br/>
-
-<!-- ===================================================== -->
-
-<!--                     COLLABORATE                       -->
-
-<!-- ===================================================== -->
-
-## `12.` Let's Build Something Impactful
+## Current Professional Focus
 
 <table>
   <tr>
-    <td width="65%" valign="middle">
+    <td width="33%" valign="top">
 
-I am open to collaborating on digital products involving:
+### Business Systems
 
-* Custom web application development
-* Business process digitalization
-* Backend and REST API architecture
-* Administrative and operational systems
-* Learning management and certification platforms
-* Public websites and content portals
-* UI/UX modernization
-* Application optimization and deployment
-
-I am especially interested in projects where technology can simplify operations, improve user experience, and produce measurable business value.
+Building systems that support administrative, financial, educational, and operational workflows.
 
   </td>
-  <td width="35%" align="center" valign="middle">
+
+  <td width="33%" valign="top">
+
+### Product Experience
+
+Improving interfaces and user journeys so digital products feel clearer, faster, and easier to use.
+
+  </td>
+
+  <td width="33%" valign="top">
+
+### Scalable Solutions
+
+Developing architectures that remain maintainable as features, users, and business needs continue to grow.
+
+  </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ====================================================== -->
+
+<!--                   COLLABORATION                        -->
+
+<!-- ====================================================== -->
+
+## Let's Build Something Valuable
+
+<table>
+  <tr>
+    <td width="68%" valign="middle">
+
+I am open to collaborations involving:
+
+* Digital product development
+* Custom business applications
+* Backend and REST API architecture
+* Administrative and operational platforms
+* Learning and certification systems
+* Public websites and content portals
+* UI/UX improvement
+* Application modernization
+* Server deployment and optimization
+
+Through **Fistechno Digital Solution**, I aim to help businesses and organizations create digital products that provide real operational value.
+
+  </td>
+
+  <td width="32%" align="center" valign="middle">
 
 <img
-src="https://img.icons8.com/fluency/144/handshake.png"
-width="120"
-alt="Collaboration"
+src="https://img.icons8.com/fluency/144/rocket.png"
+width="110"
+alt="Build Digital Product"
 />
+
+<br/>
 
 <a href="https://linkedin.com/in/Faizal-dev13">
   <img
-    src="https://img.shields.io/badge/START%20A%20CONVERSATION-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white"
+    src="https://img.shields.io/badge/START%20A%20CONVERSATION-0284C7?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="Start a Conversation"
   />
 </a>
@@ -499,81 +481,41 @@ alt="Collaboration"
 
 <br/>
 
-<!-- ===================================================== -->
+---
 
-<!--                       QUOTE                           -->
+<!-- ====================================================== -->
 
-<!-- ===================================================== -->
+<!--                       FOOTER                           -->
 
-<div align="center">
-
-<img
-src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
-width="80%"
-alt="Developer Quote"
-/>
-
-</div>
-
-<br/>
-
-<!-- ===================================================== -->
-
-<!--               CONTRIBUTION SNAKE OPTIONAL             -->
-
-<!-- ===================================================== -->
-
-## `13.` Contribution Journey
+<!-- ====================================================== -->
 
 <div align="center">
 
-<img
-src="https://raw.githubusercontent.com/Faizal-dev13/Faizal-dev13/output/github-contribution-grid-snake-dark.svg"
-width="100%"
-alt="Contribution Snake Animation"
-/>
+### Founder of Fistechno Digital Solution
 
-<sub>
-The contribution animation requires a GitHub Actions workflow in this profile repository.
-</sub>
-
-</div>
-
-<br/>
-
-<!-- ===================================================== -->
-
-<!--                       FOOTER                          -->
-
-<!-- ===================================================== -->
-
-<div align="center">
-
-### Technology should simplify operations, strengthen decisions, and create measurable impact.
+**Building thoughtful digital products through strategy, design, and engineering.**
 
 <br/>
 
 <img
-src="https://img.shields.io/github/followers/Faizal-dev13?label=FOLLOWERS&style=for-the-badge&color=0ea5e9&labelColor=0f172a"
+src="https://img.shields.io/github/followers/Faizal-dev13?label=FOLLOWERS&style=flat-square&color=0284c7"
 alt="GitHub Followers"
 />
 
 <img
-src="https://img.shields.io/github/stars/Faizal-dev13?affiliations=OWNER&label=TOTAL%20STARS&style=for-the-badge&color=0ea5e9&labelColor=0f172a"
+src="https://img.shields.io/github/stars/Faizal-dev13?affiliations=OWNER&label=TOTAL%20STARS&style=flat-square&color=0284c7"
 alt="GitHub Stars"
 />
 
 <img
-src="https://img.shields.io/github/last-commit/Faizal-dev13/Faizal-dev13?label=LAST%20UPDATED&style=for-the-badge&color=0ea5e9&labelColor=0f172a"
+src="https://img.shields.io/github/last-commit/Faizal-dev13/Faizal-dev13?label=LAST%20UPDATED&style=flat-square&color=0284c7"
 alt="Last Updated"
 />
 
 <br/><br/>
 
-**Designed and developed with precision by Faizal Dev**
-
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:0f172a,100:020617&height=140&section=footer"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,50:0f172a,100:020617&height=120&section=footer"
 width="100%"
 alt="Footer"
 />
